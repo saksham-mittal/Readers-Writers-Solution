@@ -1,0 +1,12 @@
+Average Time for RW-Fair is: 
+0 seconds
+Average Time for RW-Fair is: 
+0 seconds
+Average Time for RW-Fair is: 
+0 seconds
+Average Time for RW is: 
+0 seconds
+Average Time for RW is: 
+0 seconds
+Average Time for RW-Fair is: 
+0 seconds
